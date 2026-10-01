@@ -1659,7 +1659,7 @@ def room21():
 def room22():
     #room22
     #Rogelio Jeronimo
-    print("Playing in the Fun House")
+    print("Playing in the Fun House.")
 
 def room23():
     #room23    
